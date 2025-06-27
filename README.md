@@ -15,5 +15,30 @@ A simple graphical application to manage daily tasks.
 **Run Command:**
 ```bash
 python todo_list.py
-python password_generator.py
+
+## ✅ 2. Calculator
+A basic calculator GUI to perform arithmetic operations.
+
+**Features:**
+- Addition, Subtraction, Multiplication, Division
+- Clear/Reset functionality
+- Built using `Tkinter`
+
+**Run Command:**
+```bash
 python calculator.py
+
+## ✅ 3. Tic Tac Toe (Console Game)
+A two-player text-based Tic Tac Toe game played in the terminal.
+
+**Features:**
+- Classic 3x3 grid
+- Player vs Player turn-based system
+- Win and draw detection
+- Runs entirely in the console
+
+**Run Command:**
+```bash
+python tic_tac_toe.py
+
+
